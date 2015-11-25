@@ -1,8 +1,20 @@
-h1 {
-    color: blue;
+
+body {
+    background-color: #FFEBCD;
+    }
+    h1 {
+    color: #8b008b;
     font-family = Garamond;
-    font-size = 22px;
+    font-size = 40px;
 }
 h3 {
     color: green;
+    font-family: Garamond;
+    font-size: 50px;
+}
+ul {
+    list-style-type: circle;
+}
+ul {
+    padding: 30px;
 }
